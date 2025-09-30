@@ -1,0 +1,4 @@
+- pkg:cpan/Catalyst-Plugin-Authentication-CDBI@0.06
+- pkg:cpan/Catalyst-Plugin-Authentication-CDBI@0.10
+- pkg:cpan/Catalyst-Plugin-Authentication-CDBI@0.05
+- pkg:cpan/Catalyst-Plugin-Authentication-CDBI@0.09

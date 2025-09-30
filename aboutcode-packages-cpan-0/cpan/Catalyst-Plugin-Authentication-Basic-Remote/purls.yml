@@ -1,0 +1,3 @@
+- pkg:cpan/Catalyst-Plugin-Authentication-Basic-Remote@0.01
+- pkg:cpan/Catalyst-Plugin-Authentication-Basic-Remote@0.03
+- pkg:cpan/Catalyst-Plugin-Authentication-Basic-Remote@0.02
