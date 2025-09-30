@@ -1,0 +1,4 @@
+- pkg:cpan/Alien-hiredis@0.010
+- pkg:cpan/Alien-hiredis@0.011
+- pkg:cpan/Alien-hiredis@0.013
+- pkg:cpan/Alien-hiredis@0.014
