@@ -1,0 +1,8 @@
+- pkg:cpan/App-test-travis@v0.9.4
+- pkg:cpan/App-test-travis@v0.9.6
+- pkg:cpan/App-test-travis@v0.9.2
+- pkg:cpan/App-test-travis@v0.9.0
+- pkg:cpan/App-test-travis@v0.9.5
+- pkg:cpan/App-test-travis@v0.9.3
+- pkg:cpan/App-test-travis@v0.9.7
+- pkg:cpan/App-test-travis@v0.9.1
