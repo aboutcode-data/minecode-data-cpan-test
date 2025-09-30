@@ -1,0 +1,4 @@
+- pkg:cpan/Amazon-SQS-Simple@2.06
+- pkg:cpan/Amazon-SQS-Simple@2.05
+- pkg:cpan/Amazon-SQS-Simple@2.04
+- pkg:cpan/Amazon-SQS-Simple@2.07

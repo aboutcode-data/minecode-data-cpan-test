@@ -1,0 +1,4 @@
+- pkg:cpan/Win32-SerialPort@0.20
+- pkg:cpan/Win32-SerialPort@0.22
+- pkg:cpan/Win32-SerialPort@0.19
+- pkg:cpan/Win32-SerialPort@0.21

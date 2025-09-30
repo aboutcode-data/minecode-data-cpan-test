@@ -1,0 +1,4 @@
+- pkg:cpan/AnyEvent-InfluxDB@0.01
+- pkg:cpan/AnyEvent-InfluxDB@0.13
+- pkg:cpan/AnyEvent-InfluxDB@1.0.2.0
+- pkg:cpan/AnyEvent-InfluxDB@0.02
