@@ -1,0 +1,2 @@
+- pkg:cpan/Catalyst-Plugin-Session-Store-Redis-Fast@1.000
+- pkg:cpan/Catalyst-Plugin-Session-Store-Redis-Fast@1.001

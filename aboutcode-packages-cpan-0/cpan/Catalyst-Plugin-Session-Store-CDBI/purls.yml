@@ -1,0 +1,2 @@
+- pkg:cpan/Catalyst-Plugin-Session-Store-CDBI@0.03
+- pkg:cpan/Catalyst-Plugin-Session-Store-CDBI@0.02
