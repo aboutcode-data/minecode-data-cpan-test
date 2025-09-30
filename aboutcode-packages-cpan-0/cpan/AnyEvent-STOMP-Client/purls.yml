@@ -1,0 +1,2 @@
+- pkg:cpan/AnyEvent-STOMP-Client@0.42
+- pkg:cpan/AnyEvent-STOMP-Client@0.41

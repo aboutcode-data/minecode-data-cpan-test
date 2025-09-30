@@ -1,0 +1,4 @@
+- pkg:cpan/AnyEvent-UWSGI@0.03
+- pkg:cpan/AnyEvent-UWSGI@0.02
+- pkg:cpan/AnyEvent-UWSGI@0.02.tgz
+- pkg:cpan/AnyEvent-UWSGI@0.04
