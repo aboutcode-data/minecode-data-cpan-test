@@ -1,0 +1,4 @@
+- pkg:cpan/Cache-Memcached-Fast@0.25
+- pkg:cpan/Cache-Memcached-Fast@0.27
+- pkg:cpan/Cache-Memcached-Fast@0.26
+- pkg:cpan/Cache-Memcached-Fast@0.28

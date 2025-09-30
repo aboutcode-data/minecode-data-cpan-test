@@ -1,0 +1,3 @@
+- pkg:cpan/Cache-Memcached-Managed@0.25
+- pkg:cpan/Cache-Memcached-Managed@0.27
+- pkg:cpan/Cache-Memcached-Managed@0.26

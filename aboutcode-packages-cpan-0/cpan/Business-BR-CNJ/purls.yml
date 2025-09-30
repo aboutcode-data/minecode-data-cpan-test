@@ -1,0 +1,5 @@
+- pkg:cpan/Business-BR-CNJ@0.01
+- pkg:cpan/Business-BR-CNJ@0.02
+- pkg:cpan/Business-BR-CNJ@NumberExtractor
+- pkg:cpan/Business-BR-CNJ@Classes
+- pkg:cpan/Business-BR-CNJ@Format
